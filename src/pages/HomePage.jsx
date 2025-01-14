@@ -22,10 +22,10 @@ function AboutMeSection() {
 
 const webDevProjects = [
     {
-        title: 'Project 1',
-        description: 'This is the first project.',
+        title: 'The Stunna Shop ',
+        description: 'My first Business website with Shopify .',
         image: 'https://picsum.photos/200/300',
-        link: 'https://www.google.com',
+        link: 'https://www.TheStunnaShop.com',
     },
     {
         title: 'Project 2',
