@@ -4,6 +4,6 @@ import './AboutPage.css'
 
 export default function AboutPage() {
     return (
-        <div className='about-page'>This is our ABOUT PAGE!!!!</div>
+        <div className='about-page'> Welcome to Nick's Portfolio! </div>
     )
 }

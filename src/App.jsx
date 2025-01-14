@@ -8,6 +8,7 @@ import Layout from './Layout'
 import './App.css'
 
 const router = createBrowserRouter([
+    // logo page
     // home page
     {
         path: "/",

@@ -5,7 +5,7 @@ import './HomePage.css'
 function HeroSection() {
     return (
         <div className='hero-section'>
-            <h1>Hello, my name is Timmy.</h1>
+            <h1>Hello, my name is Nick.</h1>
             <p>I am a web developer. Give me some money, please.</p>
         </div>
     )
