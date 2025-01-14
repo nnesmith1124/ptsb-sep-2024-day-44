@@ -24,8 +24,8 @@ const webDevProjects = [
     {
         title: 'The Stunna Shop ',
         description: 'My first Business website with Shopify .',
-        image: 'https://picsum.photos/200/300',
-        link: 'https://www.TheStunnaShop.com',
+        image: '//thestunnashop.com/cdn/shop/files/Stunna_Shop_Logo_450x.jpg?v=1613642912',
+        link: 'thestunnashop.com',
     },
     {
         title: 'Project 2',
